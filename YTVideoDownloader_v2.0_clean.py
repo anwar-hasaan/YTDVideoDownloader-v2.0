@@ -244,7 +244,7 @@ class App(CTk):
 
         #meta data of window
         self.title('YouTube Video Downloader')
-        self.iconbitmap('logo.ico')
+        self.iconbitmap('bin/logo.ico')
 
         w_height = self.winfo_screenheight()-75
         w_width = 500
